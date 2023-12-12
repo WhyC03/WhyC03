@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Amazon Clone](https://github.com/WhyC03/amazon_clone)
 
-- 🌱 I’m currently learning **C++, Firebase,**
+- 🌱 I’m currently learning **C++, Firebase**
 
 - 📫 How to reach me **chandra_yash2003@rediffmail.com**
 
