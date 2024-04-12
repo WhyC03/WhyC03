@@ -12,8 +12,6 @@
 
 - 📫 How to reach me **chandra_yash2003@rediffmail.com**
 
-- 📄 Know about my experiences [http://surl.li/oeual](http://surl.li/oeual)
-
 - ⚡ Fun fact **I am not so funny!!**
 
 <h3 align="left">Connect with me:</h3>
